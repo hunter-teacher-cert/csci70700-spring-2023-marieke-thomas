@@ -8,5 +8,5 @@ Note: The original HTML/CSS was created last fall during the Ethics class by Mar
 ** Routes
 - index ("/")
 - hera ("/hera")
-- angel ("/angel")
+- angle ("/angle")
 
