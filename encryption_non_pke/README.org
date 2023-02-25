@@ -1,3 +1,3 @@
 * Name: Marieke Thomas
 * Decoding a message link: https://replit.com/@mthomas42/Decoding-Encoded-Message#main.py
-* Encoding a message link:
+* Encoding a message link: https://replit.com/@mthomas42/Encoding-Algorithm#main.py
