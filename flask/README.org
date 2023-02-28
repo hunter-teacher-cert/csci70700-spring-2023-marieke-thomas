@@ -6,7 +6,7 @@
 Note: The original HTML/CSS was created last fall during the Ethics class by Marisa Shuman and me (Marieke). The flask portions were coded solely by me using a forked version of the project.
 
 ** Routes
-- index ("/")
+- index ("/") (has both GET and POST methods)
 - hera ("/hera")
 - angle ("/angle")
 
