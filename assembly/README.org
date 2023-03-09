@@ -1,11 +1,11 @@
 * Assembly
-- I was a presenter for this unit
+I was a presenter for this unit
 
-**Team Members:
-- Marieke Thomas, Ben Eckley, Dave Ciolino-Volano, Ed Hawkins, Taylor Grant-Knight, Amanda Lee
+** Team Members:
+Marieke Thomas, Ben Eckley, Dave Ciolino-Volano, Ed Hawkins, Taylor Grant-Knight, Amanda Lee
 
 
-**Contents:
+** Contents:
 - prework.pdf (Google slides of prework)
 - synchronous-slides.pdf (Google slides of our synchronous presentation)
 - homework.pdf (the homework assignment)
